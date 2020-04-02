@@ -1,0 +1,5 @@
+data:
+  env: shop-order-dev
+  user:
+    username: xiaoqiang
+    password: 123456

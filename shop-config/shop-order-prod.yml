@@ -1,0 +1,5 @@
+data:
+  env: shop-order-prod
+  user:
+    username: wangcai
+    password: 123456
